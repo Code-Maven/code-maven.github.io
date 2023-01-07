@@ -1,15 +1,3 @@
-# Code maven demo page
+# Code Maven
 
-First line
-
-* one
-* two
-* three
-
-## try again
-
-1. one
-1. two
-1. three
-
-[Code Mave](https://code-maven.com/)
+[Code Maven](https://code-maven.com/)
