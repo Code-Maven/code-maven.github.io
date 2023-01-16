@@ -10,5 +10,5 @@
 ## Open Source Development Courses
 
 
-* [OSDC 2023 01](/osdc-2023-01-public) a public course given in Hebrew
+* [OSDC 2023 01](https://osdc.code-maven.com/osdc-2023-01-public) a public course given in Hebrew
 
